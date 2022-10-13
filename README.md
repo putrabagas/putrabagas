@@ -1,4 +1,4 @@
-### Hi there 👋 My name is Putra Bagaspati Rohadi, welcome to my GitHub!
+# Hi, I'm Putra! 👋
 
 - :mortar_board: I’m Informatics Engineering Student at Universitas Pembangunan Nasional Veteran Yogyakarta.
 
@@ -13,5 +13,6 @@
    <img align="center" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg">
    <img align="center" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/laravel/laravel-plain.svg">
    <img align="center" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg">
-   <img align="center" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg">  
+   <img align="center" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg">
+   <img src="https://gpvc.arturio.dev/putrabagas" />
 </div> 
