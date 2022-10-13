@@ -15,6 +15,6 @@
    <img align="center" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg">
    <img align="center" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg">
 </div>
-<div style="margin-top:10px;">   
-   <img src="https://gpvc.arturio.dev/putrabagas"/>
+<div>   
+   <img src="https://gpvc.arturio.dev/putrabagas" style="margin-top:15px;"/>
 </div>
