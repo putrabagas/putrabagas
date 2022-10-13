@@ -14,7 +14,5 @@
    <img align="center" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/laravel/laravel-plain.svg">
    <img align="center" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg">
    <img align="center" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg">
-</div> 
-<div>
-   <img src="https://gpvc.arturio.dev/putrabagas"/>
- </div
+   <img src="https://gpvc.arturio.dev/putrabagas" style="float:right;"/>
+</div>
