@@ -1,6 +1,6 @@
 # Hi, I'm Putra! 👋
 
-- :mortar_board: I’m Informatics Engineering Student at Universitas Pembangunan Nasional Veteran Yogyakarta.
+I’m Informatics Engineering Student at Universitas Pembangunan Nasional Veteran Yogyakarta. :mortar_board: 
 
 <div>    
    <a href="https://github.com/putrabagas">
