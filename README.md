@@ -10,6 +10,7 @@ I’m Informatics Engineering Student at Universitas Pembangunan Nasional Vetera
 
 <h3>Things I code with</h3>
 <p>
+  <img alt="Apollo Graphql" src="https://img.shields.io/badge/Apollo%20GraphQL-%23311C87.svg?&style=flat-square&logo=apollo%20graphql&logoColor=white" />
    <img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-%23007ACC.svg?&style=flat-square&logo=visual%20studio%20code&logoColor=white" />
   <img alt="CSS3" src="https://img.shields.io/badge/CSS3-%231572B6.svg?&style=flat-square&logo=css3&logoColor=white" />
   <img alt="MySQL" src="https://img.shields.io/badge/MySQL-%234479A1.svg?&style=flat-square&logo=mysql&logoColor=white" />
